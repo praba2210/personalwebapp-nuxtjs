@@ -28,7 +28,7 @@ GSAP
 
 ```
 myanimelist - https://myanimelist.net/clubs.php?cid=13727
-Gogile - https://gofile.io/api
+Gofile - https://gofile.io/api
 Google Calender - https://developers.google.com/calendar/overview
 Google gmail - https://developers.google.com/gmail/api/quickstart/nodejs
 
