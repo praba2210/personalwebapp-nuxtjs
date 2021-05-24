@@ -19,18 +19,25 @@ $ yarn generate
 ## Dependencies
 
 ```
-Threejs
-Vuetify
-GSAP
-```
+- Threejs 
+- Vuetify
+- GSAP
 
+```
+## TODO
+```
+- Blog module
+- Telegram instant view
+- Widget designs for website & dashboard
+
+```
 ## To Integrate
 
 ```
-myanimelist - https://myanimelist.net/clubs.php?cid=13727
-Gofile - https://gofile.io/api
-Google Calender - https://developers.google.com/calendar/overview
-Google gmail - https://developers.google.com/gmail/api/quickstart/nodejs
+- myanimelist - https://myanimelist.net/clubs.php?cid=13727
+- Gofile - https://gofile.io/api
+- Google Calender - https://developers.google.com/calendar/overview
+- Google gmail - https://developers.google.com/gmail/api/quickstart/nodejs
 
 
 ```
